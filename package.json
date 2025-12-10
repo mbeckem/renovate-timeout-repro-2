@@ -1,0 +1,13 @@
+{
+    "name": "renovate-timeout-repro",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "packageManager": "pnpm@10.24.0",
+    "dependencies": {
+        "react": "19.0.0"
+    }
+}
