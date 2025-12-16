@@ -8,6 +8,6 @@
     "license": "ISC",
     "packageManager": "pnpm@10.24.0",
     "dependencies": {
-        "react": "19.0.0"
+        "react": "19.2.3"
     }
 }
