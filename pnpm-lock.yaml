@@ -4,24 +4,22 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-pnpmfileChecksum: sha256-FAQ+ylJChk4moYBCl+iwvCnDgmyWSUpwlv3NBRm9xrs=
-
 importers:
 
   .:
     dependencies:
       react:
-        specifier: 19.0.0
-        version: 19.0.0
+        specifier: 19.2.3
+        version: 19.2.3
 
 packages:
 
-  react@19.0.0:
-    resolution: {integrity: sha512-V8AVnmPIICiWpGfm6GLzCR/W5FXLchHop40W4nXBmdlEceh16rCN8O8LNWm5bh5XUX91fh7KpA+W0TgMKmgTpQ==}
+  react@19.2.3:
+    resolution: {integrity: sha512-Ku/hhYbVjOQnXDZFv2+RibmLFGwFdeeKHFcOTlrt7xplBnya5OGn/hIRDsqDiSUcfORsDC7MPxwork8jBwsIWA==}
     engines: {node: '>=0.10.0'}
 
 snapshots:
 
-  react@19.0.0: {}
+  react@19.2.3: {}
 
 time: {}
