@@ -1,10 +1,29 @@
+---
+lockfileVersion: '9.0'
+
+importers:
+
+  .:
+    configDependencies:
+      '@open-pioneer/pnpm-plugin-defaults':
+        specifier: 0.1.0
+        version: 0.1.0
+
+packages:
+
+  '@open-pioneer/pnpm-plugin-defaults@0.1.0':
+    resolution: {integrity: sha512-+m/wk7B8hZPfiFzM82JBYTD6TbrMHPdgPUITBMHzjlqzCo8YfPHc5NAsURCz/YcMBN5tNANDQDfclYhrsjmClQ==}
+
+snapshots:
+
+  '@open-pioneer/pnpm-plugin-defaults@0.1.0': {}
+
+---
 lockfileVersion: '9.0'
 
 settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
-
-pnpmfileChecksum: sha256-FAQ+ylJChk4moYBCl+iwvCnDgmyWSUpwlv3NBRm9xrs=
 
 importers:
 
